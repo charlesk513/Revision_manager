@@ -15,10 +15,10 @@ Language: Java
 
 Concepts Used:
 
-Object-Oriented Programming (OOP)
-File Handling (File, BufferedReader, FileWriter)
-Collections (ArrayList, HashMap)
-Interface: Command Line Interface (CLI)
+* Object-Oriented Programming (OOP)
+* File Handling (File, BufferedReader, FileWriter)
+* Collections (ArrayList, HashMap)
+* Interface: Command Line Interface (CLI)
 
 📂 Project Structure
 
@@ -46,21 +46,18 @@ update "Computer Networks" "network_notes.pdf"
 
 💡 System Design Overview
 
-Each Course Unit is represented as an object.
-
-Each Material (PDF/book) is linked to a course unit.
-
-Data is stored locally using file handling.
-
-Course Unit → List of Materials
+* Each Course Unit is represented as an object.
+* Each Material (PDF/book) is linked to a course unit.
+* Data is stored locally using file handling.
+* Course Unit → List of Materials
 
 🎯 Future Improvements
 
-    🔐 Add user authentication
-    🗄️ Integrate a database (e.g., PostgreSQL or MySQL)
-    🔎 Implement advanced search (by topic, keyword)
-    🌐 Cloud storage integration
-    🖥️ GUI version using JavaFX or Swing
+   *  🔐 Add user authentication
+   *  🗄️ Integrate a database (e.g., PostgreSQL or MySQL)
+   *  🔎 Implement advanced search (by topic, keyword)
+   *  🌐 Cloud storage integration
+   *  🖥️ GUI version using JavaFX or Swing
 
 👨‍💻 Author
 

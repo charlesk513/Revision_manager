@@ -22,18 +22,18 @@ Concepts Used:
 
 📂 Project Structure
 
-		revision-manager/  
-		│── src/  
-		│    ├── Main.java  
-		│    ├── Material.java  
-		│    ├── CourseUnit.java  
-		│    ├── RevisionManager.java  
-		│  
-		│── data/  
-		│    ├── course_units/  
-		│    ├── materials/  
-		│  
-		│── README.md  
+	revision-manager/  
+	│── src/  
+	│    ├── Main.java  
+	│    ├── Material.java  
+	│    ├── CourseUnit.java  
+	│    ├── RevisionManager.java  
+	│  
+	│── data/  
+	│    ├── course_units/  
+	│    ├── materials/  
+	│  
+	│── README.md  
 		  
 Example CLI commands:
 

@@ -1,6 +1,6 @@
-# ACT 
-YOUR REVISION HUB
-A command-line application designed to help students organize and manage revision materials efficiently. The system allows users to store, update, and access PDFs, books, and other study resources by course unit.
+# ACT                YOUR REVISION HUB
+A command-line application designed to help students organize and manage revision materials efficiently. The system allows users to store, update, and access PDFs, books, and other study resources by course unit.  
+ACT is derived from  the creators (Alvin, Charles and Twaha)
 
 🚀 Features
 

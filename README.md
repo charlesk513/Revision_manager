@@ -1,4 +1,5 @@
-# Revision_manager
+# ACT 
+YOUR REVISION HUB
 A command-line application designed to help students organize and manage revision materials efficiently. The system allows users to store, update, and access PDFs, books, and other study resources by course unit.
 
 🚀 Features
@@ -58,11 +59,9 @@ update "Computer Networks" "network_notes.pdf"
    *  🌐 Cloud storage integration
    *  🖥️ GUI version using JavaFX or Swing
 
-👨‍💻 Author
+👨‍💻 Authors
 
-Kabunga Charles
-
-Colaboration: Lugonvu Joel, Ssenyonjo Twaha
+Kabunga Charles, Lugonvu Joel, Ssenyonjo Twaha
 
 📄 License
 
